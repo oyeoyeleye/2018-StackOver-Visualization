@@ -8,6 +8,6 @@
 
 Consists of two files:​
 
-surveyresultspublic – contains main results, w/one respondent per row​
+surveyresultspublic – contains main results, with one respondent per row​
 
 surveyresultsschema – contains each column name from the main results​
